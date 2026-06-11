@@ -2,6 +2,5 @@ NCLEX NGN Practice ModuleThis is an interactive, single-page web application des
 git add .
 git commit -m "Initial commit of NCLEX app"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git remote add origin https://github.com/meredithashley-EDU/nclex-ngn-practice-app.git
 git push -u origin main
-(Make sure to replace YOUR-USERNAME and YOUR-REPO-NAME with your actual GitHub details).
